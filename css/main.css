@@ -50,11 +50,7 @@ nav{
     margin-top:20px;
 }
 /*coding for practice section ended here*/
-.computer-footer{
-    margin-top:80px !important;
-    background-color:#213d6f;
-    height:250px;
-}
+
 /*coding for small devices start here*/
 .social-logo-sm{
     line-height:40px;
@@ -88,13 +84,14 @@ nav{
 .sm-navigation{
     height:100%;
     position:absolute;
-    top:72px;
+    top:75px;
     background-color:#213d6f !important;
     border-top:solid 2px white !important ;
     display:none;
+    left:0;
+    right:0
 }
 .devices-li{
     line-height:70px !important;
 }
-.sm-navigation
 /*coding for small devices ended here*/
